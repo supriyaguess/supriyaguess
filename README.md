@@ -1,5 +1,5 @@
 <!-- Add your banner image or logo here -->
-![Banner](/supriya - profile.png)
+![Banner](supriya - profile.png)
 
 # Hi there! 👋 I'm Supriya Kumari
 
