@@ -1,5 +1,5 @@
 <!-- Add your banner image or logo here -->
-![Banner](link_to_banner_image)
+![Banner](/supriya - profile.png)
 
 # Hi there! 👋 I'm Supriya Kumari
 
@@ -29,7 +29,7 @@ I'm passionate about Learning new thing, and I enjoy exploring new technologies 
 
 ## 📫 Contact Me
 - **Email:** kumarisupriyasoni96@gmail.com
-- **LinkedIn:** [(https://www.linkedin.com/in/supriya-kumari-5a3018257)]
+- **LinkedIn:** [Here](https://www.linkedin.com/in/supriya-kumari-5a3018257)
 
 
 Feel free to reach out for collaborations, discussions, or any inquiries!
