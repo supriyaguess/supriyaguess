@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Supriya Kumari
 
+<img align = "center" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="200" style="border-radius:50%;margin-bottom:15px;"/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="200" style="border-radius:50%;margin-bottom:15px;"/>
+  
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mechanical+and+Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
@@ -34,15 +36,6 @@ I'm passionate about learning new things and enjoy exploring new technologies an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyaguess&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📊 My Coding Activity
-
-<div align="center">
-  <!-- Fixed GitHub streak stats URL -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=supriyaguess&theme=radical" alt="GitHub Streak" />
-  </a>
 </div>
 
 ## 🌟 Skills
