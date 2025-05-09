@@ -11,7 +11,7 @@ I'm passionate about Learning new thing, and I enjoy exploring new technologies 
 ## 🛠️ Skills
 ### Technical Skills
 - **Programming Languages:** C++, C, Python
-- **Web Development:** HTML, CSS, JAVASCRIPT
+- **Web Development:** HTML, CSS, JAVASCRIPT, ReactJS
 - **Machine Learning:** sklearn, Pytorch, Classification and Regression Algorithm
 
 ### Soft Skills
