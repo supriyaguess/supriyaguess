@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Supriya Kumari
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mechanical+and+Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="200" style="border-radius:50%;margin-bottom:15px;"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mechanical+and+Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -37,7 +39,10 @@ I'm passionate about learning new things and enjoy exploring new technologies an
 ## 📊 My Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supriyaguess&theme=radical" alt="GitHub Streak" />
+  <!-- Fixed GitHub streak stats URL -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=supriyaguess&theme=radical" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🌟 Skills
@@ -77,3 +82,5 @@ I'm passionate about learning new things and enjoy exploring new technologies an
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=supriyaguess&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
+
+<!-- Feel free to customize and enhance this README as you continue to grow your skills! -->
