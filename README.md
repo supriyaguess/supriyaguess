@@ -1,5 +1,5 @@
 <!-- Add your banner image or logo here -->
-![@supriyaguess](https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/images/supriya - profile.png)
+![@supriyaguess](https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/images/supriya-profile.png)
 
 
 # Hi there! 👋 I'm Supriya Kumari
