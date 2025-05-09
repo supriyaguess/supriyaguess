@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Supriya Kumari
 
-<img align = "center" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="200" style="border-radius:50%;margin-bottom:15px;"/>
+<img align = "center" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
 
 <div align="center">
   
