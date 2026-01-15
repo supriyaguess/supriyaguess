@@ -37,7 +37,8 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0A66C2?style=for-the-badge)
-![Full--Stack%20Development-000000?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Development-000000?style=for-the-badge)
+
 
 </div>
 
