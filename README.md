@@ -44,8 +44,8 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 ## 💻 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supriyaguess&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyaguess&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supriyaguess&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=2" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyaguess&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&v=2" height="160" />
 </div>
 
 
