@@ -10,7 +10,8 @@ Aspiring Software Developer | DSA & Web Development
 
 ## 🚀 About Me
 
-I'm passionate about learning new things and enjoy exploring new technologies and tools. Currently pursuing my B.Tech in Mechanical and Automation Engineering at IGDTUW (2026), I'm particularly interested in Machine Learning and Web Development.
+I’m an aspiring software developer who enjoys solving problems and building real-world applications.  
+Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while actively focusing on **DSA and Web Development**.
 
 ## 🛠️ Tech Stack
 
@@ -40,10 +41,19 @@ I'm passionate about learning new things and enjoy exploring new technologies an
 
 ## 🌟 Skills
 
-### Technical Skills
-- **Programming Languages:** C++, C, Python, 
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB
-- **Machine Learning:** scikit-learn, PyTorch, Classification and Regression Algorithms
+## 🛠 Tech Stack
+
+**Languages:**  
+C · C++ · JavaScript  
+
+**Frontend:**  
+HTML · CSS · React  
+
+**Backend:**  
+Node.js  
+
+**Currently Learning:**  
+Data Structures & Algorithms · Full-Stack Web Development
 
 ### Soft Skills
 - **Communication:** Effective verbal and written communication
