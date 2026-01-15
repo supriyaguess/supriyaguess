@@ -7,7 +7,6 @@ Aspiring Software Developer | DSA & Web Development
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring+Software+Developer;DSA+and+Full-Stack+Web+Development;React+%7C+Node+%7C+Problem+Solving" alt="Typing SVG" />
 
-
 ## 🚀 About Me
 
 I’m an aspiring software developer who enjoys solving problems and building real-world applications.  
@@ -54,14 +53,14 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 ## 🌟 Skills
 
 ### 🤝 Soft Skills
-- **Communication:** Clear, confident, and effective communicator  
-- **Problem Solving:** Strong analytical mindset with creative problem-solving skills  
-- **Leadership:** Proactive team collaborator with hands-on project leadership experience
+ **Communication:** Clear, confident, and effective communicator  
+ **Problem Solving:** Strong analytical mindset with creative problem-solving skills  
+ **Leadership:** Proactive team collaborator with hands-on project leadership experience
 
 
 ## 🎓 Education
 
-- **B.Tech** in Mechanical and Automation Engineering - *IGDTUW* (2026)
+ **B.Tech** in Mechanical and Automation Engineering - *IGDTUW* (2026)
 
 ## 📜 Certifications
 
