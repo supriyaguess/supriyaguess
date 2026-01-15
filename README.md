@@ -5,11 +5,7 @@ Aspiring Software Developer | DSA & Web Development
 
 <div align="center">
   
-  
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&
-lines=Aspiring+Software+Developer;DSA+and+Full-Stack+Web+Development;React+%7C+Node+%7C+Problem+Solving"
-alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring+Software+Developer;DSA+and+Full-Stack+Web+Development;React+%7C+Node+%7C+Problem+Solving" alt="Typing SVG" />
 
 
 ## 🚀 About Me
