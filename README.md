@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Supriya Kumari
+Aspiring Software Developer | DSA & Web Development
 
 <img align = "center" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
 
 <div align="center">
   
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mechanical+and+Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring+Software+Developer;DSA+and+Web+Development;React+%7C+Node+%7C+Problem+Solving" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
