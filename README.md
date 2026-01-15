@@ -53,24 +53,11 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 
 ## 🌟 Skills
 
-## 🛠 Tech Stack
+### 🤝 Soft Skills
+- **Communication:** Clear, confident, and effective communicator  
+- **Problem Solving:** Strong analytical mindset with creative problem-solving skills  
+- **Leadership:** Proactive team collaborator with hands-on project leadership experience
 
-**Languages:**  
-C · C++ · JavaScript  
-
-**Frontend:**  
-HTML · CSS · React  
-
-**Backend:**  
-Node.js  
-
-**Currently Learning:**  
-Data Structures & Algorithms · Full-Stack Web Development
-
-### Soft Skills
-- **Communication:** Effective verbal and written communication
-- **Problem Solving:** Analytical thinking and creative solutions
-- **Leadership:** Team collaboration and project management
 
 ## 🎓 Education
 
