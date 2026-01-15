@@ -63,9 +63,8 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
  **B.Tech** in Mechanical and Automation Engineering - *IGDTUW* (2026)
 
 ## 📜 Certifications
-
-- **Machine Learning** - *Internshala* (2023)
-  - Learned about Machine Learning libraries, algorithms, and applied them to various datasets
+  **Web Development** – *Internshala* (2023)  
+   Worked on real-world web development tasks involving responsive design, front-end optimization, and practical implementation using HTML, CSS, and JavaScript.
 
 ## 📫 Connect With Me
 
