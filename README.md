@@ -49,9 +49,6 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyaguess&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
-
-## 🌟 Skills
-
 ### 🤝 Soft Skills
  **Communication:** Clear, confident, and effective communicator  
  **Problem Solving:** Strong analytical mindset with creative problem-solving skills  
