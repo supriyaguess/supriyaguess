@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Supriya Kumari
 Aspiring Software Developer | DSA & Web Development
 
-<img align = "center" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
+<img align = "left" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
 
-<div align="center">
+<div align="left">
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring+Software+Developer;DSA+and+Full-Stack+Web+Development;React+%7C+Node+%7C+Problem+Solving" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
-<div align="center">
+<div align="left">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,7 +24,7 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 </div>
 
 ### 🔹 Frontend
-<div align="center">
+<div align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 </div>
 
 ### 🔹 Currently Learning
-<div align="center">
+<div align="left">
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-0A66C2?style=for-the-badge)
