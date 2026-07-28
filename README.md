@@ -7,10 +7,12 @@ Aspiring Software Developer | DSA & Web Development
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Aspiring+Software+Developer;DSA+and+Full-Stack+Web+Development;React+%7C+Node+%7C+Problem+Solving" alt="Typing SVG" />
 
-## 🚀 About Me
+## Hey, I'm Supriya 👋
 
-I’m an aspiring software developer who enjoys solving problems and building real-world applications.  
-Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while actively focusing on **DSA and Web Development**.
+Engineer turned Backend Developer, building things that live behind the scenes but power the experiences users love.
+I enjoy designing scalable APIs, working with databases, integrating AI/LLM-powered features, and solving real-world problems through code.
+Currently exploring backend architecture, distributed systems, and ways to make applications faster, smarter, and more reliable.
+When I'm not coding, you'll probably find me debugging something that was "working five minutes ago" 😄
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +62,7 @@ Currently pursuing B.Tech in Mechanical & Automation Engineering (2026), while a
 
 ## 🎓 Education
 
- **B.Tech** in Mechanical and Automation Engineering - *IGDTUW* (2026)
+ **B.Tech** - *IGDTUW* (2026)
 
 ## 📜 Certifications
   **Web Development** – *Internshala* (2023)  
