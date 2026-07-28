@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Supriya Kumari
 Aspiring Software Developer | DSA & Web Development
 
-<img align = "left" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya - profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
+<img align = "left" src="https://raw.githubusercontent.com/supriyaguess/supriyaguess/main/supriya-profile.png" alt="Supriya's Profile Image" width="auto" style="border-radius:50%;margin-bottom:15px;"/>
 
 <div align="left">
   
